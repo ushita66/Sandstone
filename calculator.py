@@ -4,3 +4,4 @@ x=[1,2,3]
 a = {name:'Bill', age:30, city: 'San Francisco'}
 print(x)
 b= 'boy'
+c = 'cat'
